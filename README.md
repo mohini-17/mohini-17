@@ -12,4 +12,5 @@ Hola, I'm Mohini Mishra
 
 -  🛠️Languages and tools-
 
--  Angular HTML   CSS   JavaScript   React   Typescript    UI/UX Wireframeworks   Agile   Git Jira
+ ** Angular,  HTML,   CSS,   JavaScript,   React,   Typescript,    UI/UX, Wireframeworks,   Agile,   Git Jira.
+**
