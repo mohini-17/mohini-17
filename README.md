@@ -1,48 +1,52 @@
-Hola, I'm Mohini Mishra 👋
-👩‍💻 About Me
-👩🏻‍💻 Pronouns: She/Her
-💼 Senior UX Designer & Product Design Lead with 12+ years of experience designing enterprise web and mobile applications across Banking, Telecom, Healthcare, Government, and E-Commerce domains.
-🎯 Currently focused on UX Strategy, Product Design, User Research, Accessibility, and scalable Design Systems.
-🏢 Previously worked with leading organizations including Synechron, ECT, Tata Consultancy Services, Harman, and CDAC.
-🔍 Experienced in conducting user interviews, usability testing, persona creation, user journey mapping, and transforming insights into intuitive digital experiences.
-🎨 Passionate about creating seamless UI/UX experiences through wireframing, prototyping, interaction design, and responsive design solutions.
-🧠 Strong advocate for accessibility (WCAG 2.1), user-centered design, and cross-functional collaboration between Design, Product, and Engineering teams.
-🚀 Skilled in mentoring teams, leading UX initiatives, and driving AI-augmented workflows using GitHub Copilot and modern design practices.
-🌍 German Visa Holder (Valid till 2027) with German A2 certification; intermediate level currently in progress.
-🎭 I enjoy sharing knowledge, collaborating with creative people, and exploring emerging trends in Product Design and UX innovation.
-🛠️ Languages & Tools
-🎨 UX/UI Design
-Figma
-FigJam
-Adobe XD
-Sketch
-InVision
-Wireframing
-Prototyping
-Design Systems
-User Flows
-Interaction Design
-Accessibility (WCAG 2.1)
-💻 Frontend & Development
-HTML5
-CSS3
-JavaScript
-Angular
-Bootstrap
-SASS
-Responsive Web Design
-📊 UX Research & Strategy
-User Interviews
-Surveys
-Usability Testing
-Persona Creation
-User Journey Mapping
-Information Architecture
-Heuristic Evaluation
-⚙️ Collaboration & Workflow
-Agile / Scrum
-Jira
-Confluence
-Git
-Stakeholder Management
-Cross-functional Collaboration
+Hola, I'm Mohini Mishra
+🎨 **Senior UX Designer • Product Design Lead • UX Strategist**
+💡 Designing intuitive, accessible, and scalable digital experiences for enterprise products across Banking, Telecom, Healthcare, Government, and E-Commerce domains.
+With 12+ years of experience, I specialize in transforming complex business problems into seamless user experiences through UX Research, Interaction Design, Design Systems, and User-Centered Thinking.
+🚀 **Experience Snapshot**
+🏢 Worked with global teams at
+✦ Synechron
+✦ ECT
+✦ Tata Consultancy Services
+✦ Harman
+✦ CDAC
+📱 Designed impactful experiences for enterprise web & mobile applications.
+🎯 Focused on usability, accessibility, scalability, and design consistency.
+🤝 Passionate about bridging the gap between users, business goals, and technology.
+**✦ What I Love Working On ✦**
+🔍 UX Research & Strategy
+🎨 Product Design & Design Systems
+🧩 Wireframing & Prototyping
+📐 Interaction Design
+♿ Accessibility (WCAG 2.1)
+💻 Responsive Web Experiences
+⚡ Frontend Feasibility
+🤖 AI-Augmented Design Workflows
+🌐 Cross-functional Collaboration
+🛠️ Tools & Expertise
+🎨**Design Tools**
+✨ Figma
+✨ FigJam
+✨ Adobe XD
+✨ Sketch
+✨ InVision
+💻**Frontend Skills**
+⚡ Angular
+⚡ HTML5
+⚡ CSS3
+⚡ JavaScript
+⚡ Bootstrap
+⚡ SASS
+🧠**UX Expertise**
+📌 User Research
+📌 Personas
+📌 User Journeys
+📌 Usability Testing
+📌 Information Architecture
+📌 Design Systems
+📌 Interaction Design
+🚀 Workflow & Collaboration
+🌀 Agile / Scrum
+📋 Jira
+📚 Confluence
+🤝 Stakeholder Management
+🌍 Cross-functional Team Collaboration
