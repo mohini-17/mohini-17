@@ -85,3 +85,9 @@ https://mohinimishra.framer.website
 
 💼 LinkedIn  
 https://www.linkedin.com/in/mohini-mishra-9349206b/
+
+🖼️ Behance 
+https://www.behance.net/mohinimishra17  
+
+📧 Email
+mohini.mishra17@gmail.com
