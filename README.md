@@ -77,17 +77,16 @@ With 12+ years of experience, I specialize in transforming complex business prob
 - Cross-functional Collaboration
 
 ---
-
 # 🌍 Connect With Me
 
-🎨 Portfolio  
-https://mohinimishra.framer.website
+🎨 **Portfolio**  
+🔗 https://mohinimishra.framer.website  
 
-💼 LinkedIn  
-https://www.linkedin.com/in/mohini-mishra-9349206b/
+💼 **LinkedIn**  
+🔗 https://www.linkedin.com/in/mohini-mishra-9349206b/  
 
-🖼️ Behance 
-https://www.behance.net/mohinimishra17  
+🖼️ **Behance**  
+🔗 https://www.behance.net/mohinimishra17  
 
-📧 Email
-mohini.mishra17@gmail.com
+📧 **Email**  
+✉️ mohini.mishra17@gmail.com
