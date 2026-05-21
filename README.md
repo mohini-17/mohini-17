@@ -12,11 +12,11 @@ With 12+ years of experience, I specialize in transforming complex business prob
 
 🏢 Worked with global teams at:
 
-- ✦ Synechron
-- ✦ ECT
-- ✦ Tata Consultancy Services
-- ✦ Harman
-- ✦ CDAC
+ ✦ Synechron
+ ✦ ECT
+ ✦ Tata Consultancy Services
+ ✦ Harman
+ ✦ CDAC
 
 📱 Designed impactful experiences for enterprise web & mobile applications.
 
