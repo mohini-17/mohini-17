@@ -89,4 +89,4 @@ With 12+ years of experience, I specialize in transforming complex business prob
 🔗 https://www.behance.net/mohinimishra17  
 
 📧 **Email**  
-✉️ mohini.mishra17@gmail.com
+✉️ info@mohinimishra.com
